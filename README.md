@@ -20,11 +20,11 @@ This includes:
 
 ## Screenshots
 
-<img src = "./Develop/images/first.jpg">
-<img src = "./Develop/images/second.jpg">
-<img src = "./Develop/images/fourth.jpg">
+<img src = "./images/first.jpg">
+<img src = "./images/second.jpg">
+<img src = "./images/fourth.jpg">
 
 - Here is an error alert:
-  <img src = "./Develop/images/third.jpg">
+  <img src = "./images/third.jpg">
 
 ## Deployed Application
